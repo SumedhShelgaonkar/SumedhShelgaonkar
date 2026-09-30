@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Sumedh 👋
 
-<!--
-**SumedhShelgaonkar/SumedhShelgaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student interested in software development, DSA, and AI/ML. I enjoy building practical projects and learning by working on real problems.
 
-Here are some ideas to get you started:
+🚀 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CBCS Guiding Platform
+
+Co-Creator & Developer
+
+A personalized platform that helps engineering students choose CBCS electives based on their preferences, course characteristics, and experiences shared by seniors.
+
+Tech Stack: Next.js · React · TypeScript · FastAPI · Python
+
+🔗 "View Project Repository →" (https://github.com/KernelForge23/cbcs-guiding-platform)
+
+💻 Interests
+
+- Data Structures & Algorithms
+- Software Development
+- Artificial Intelligence & Machine Learning
+- Building practical applications
